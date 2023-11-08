@@ -1,0 +1,23 @@
+@font-face{
+  font-family: 'Google Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://raw.githubusercontent.com/sang-tx/fonts/main/fonts/GoogleSans-Regular.eot);
+  src: url(https://raw.githubusercontent.com/sang-tx/fonts/main/fonts/GoogleSans-Regular.otf) format('truetype')
+}
+
+@font-face{
+  font-family: 'Google Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://raw.githubusercontent.com/sang-tx/fonts/main/fonts/GoogleSans-Medium.eot);
+  src: url(https://raw.githubusercontent.com/sang-tx/fonts/main/fonts/GoogleSans-Medium.otf) format('truetype')
+}
+
+@font-face{
+  font-family: 'Google Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://raw.githubusercontent.com/sang-tx/fonts/main/fonts/GoogleSans-Bold.eot);
+  src: url(https://raw.githubusercontent.com/sang-tx/fonts/main/fonts/GoogleSans-Bold.otf) format('truetype')
+}
